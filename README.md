@@ -2,6 +2,12 @@
 This is a replacement guide to what is in this repository
 I'm new to a lot of things. I'm using this to learn.
 
+I'm interested in flying things, things that move through the air.
+airplane wings provide lift
+airplane engines provide thrust 
+airplane alerons move the air stream
+
+
 These are some definitions
 
 Motivators
